@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PeresT67.aternos.me",
+    "ip": "PeresT67.aternos.me:34609",
     "port": 34609,
     "version": "1.21.11",
     "try-creative": false
